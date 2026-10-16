@@ -1,0 +1,14 @@
+idf_component_register(
+    SRCS 
+        "nrf_core.c"
+        "nrf_hw.c"
+        "nrf.c"
+        "NRF_App.c"
+    INCLUDE_DIRS 
+        "include"
+    REQUIRES 
+        driver
+        esp_timer
+        freertos
+        esp_rom
+)

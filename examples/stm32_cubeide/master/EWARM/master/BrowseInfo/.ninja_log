@@ -1,0 +1,131 @@
+# ninja log v5
+9	283	7375868290000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.xcl	7e9be97d59ea8fb4
+1	404	7375854300000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/main.xcl	32c8a11eff31dec2
+412	846	7375854300000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.xcl	c3675132cbb4a27
+8	359	7379249666742880	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.pbi	76f45e41130e41d2
+60	411	7375854300000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.xcl	31e139a2c7a4db
+1204	1540	7378397639527571	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.pbi	6fc8e6475d07d521
+73	440	7375854300000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.xcl	b9003bf20ae864d3
+67	447	7375854300000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/stm32f4xx_it.xcl	291292760cc5cb90
+405	562	7375854300000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.xcl	144543dd907f8179
+441	689	7375854300000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.xcl	17abb50fe453dfca
+1014	1259	7375854310000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.xcl	e34d93648de1e6c5
+819	1202	7378397636246415	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.pbi	3763ba641f4c3296
+620	1162	7388779272105655	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.pbi	b5bcd5294090f90
+563	774	7375854300000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.xcl	2bddc3f8d8c663fa
+449	862	7375854300000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.xcl	be79cfdf9f6713d0
+1260	1461	7375854310000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.xcl	d4e0b7b60126dee9
+2679	7135	7389335221078480	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master.pbw	758ceedac5cc276d
+690	963	7375854300000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.xcl	fc47a0b6dff076ad
+775	1013	7375854300000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.xcl	722b9d4266a1b064
+964	1165	7375854310000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.xcl	943e657f8fb1383a
+848	1081	7375854300000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.xcl	1567377064c1a2f0
+863	1121	7375854300000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.xcl	7a1c9dda91d117ff
+1122	1353	7375854310000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.xcl	2adbf7b44df7c5d3
+16	700	7388779267418217	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/MY_NRF24.pbi	34fe6df8f745db6d
+1166	1427	7375854310000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.xcl	b18146b8750310df
+1354	1503	7375854310000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.xcl	d629578f2fedeae2
+7	602	7378397730206635	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.pbi	3aebd51a732f714a
+19	617	7388779266636986	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	d016d124477f23ed
+23	624	7388779266636986	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.pbi	315a92c17e5eff24
+19	280	7375865600000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_spi.xcl	e7a65dd3d0eceb68
+6	914	7389335159793907	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/main.pbi	b1afe5a6c96b8757
+472	828	7378397632490038	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.pbi	a8b0736ce276520e
+451	817	7378397632333952	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.pbi	68a510ba17586edf
+1004	1471	7378397638902934	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.pbi	69bd624b90a91cd7
+831	1208	7378397636246415	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.pbi	87738176fa49fef1
+437	1002	7378397634208679	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.pbi	32fd446645bbd479
+1473	1948	7378397643708051	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.pbi	74c44f3bf3e858fa
+4	288	7375871850000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/MY_NRF24.xcl	2a3ef7046c534299
+1543	1909	7378397643239828	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.pbi	c44b44d12c5ccbe2
+919	1869	7389335169325433	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master_part0.pbi	458c62d4c6eba5ab
+1210	1546	7378397639683806	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.pbi	522ff0072f3d9e3a
+1285	1721	7378397641364510	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.pbi	345385d3957d8ac
+1548	1924	7378397643395733	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.pbi	89403981e0d745c4
+345	1049	7389327891820839	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.pbi	fd53f00854ede3c3
+702	1358	7388779273980682	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master_part1.pbi	c64252a09a58a2f
+1053	1528	7389327896668895	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master_part4.pbi	b20386e09247175b
+1289	1928	7388779279766676	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master_part2.pbi	23fafc599b36a58
+1344	1956	7388779280079107	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master_part3.pbi	36680463c5986bb0
+1873	2677	7389335177304648	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master.pbd	a48b79efd2bd150d
+2	936	7379232701520528	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/tm1637.pbi	21fa9498f2f17ca
+649	1286	7388779273355814	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_spi.pbi	80b6cf21742fc8cc
+13	547	7378397729581627	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.pbi	ca87e17bdb0d31da
+2	108	7378387200000000	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/tm1637.xcl	d2785d6083da7a66
+6	876	7389335941649815	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/main.pbi	b1afe5a6c96b8757
+881	1866	7389335951568588	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master_part0.pbi	458c62d4c6eba5ab
+6	812	7389336018201603	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master.pbd	a48b79efd2bd150d
+816	5286	7389336062138222	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master.pbw	758ceedac5cc276d
+4	628	7389354720563082	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/main.pbi	b1afe5a6c96b8757
+636	1080	7389354725068724	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master_part0.pbi	458c62d4c6eba5ab
+1082	1398	7389354728265157	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master.pbd	a48b79efd2bd150d
+3	2142	7389354811643229	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master.pbw	758ceedac5cc276d
+3	523	7389355875025903	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/main.pbi	b1afe5a6c96b8757
+526	997	7389355879764641	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master_part0.pbi	458c62d4c6eba5ab
+4	408	7389355935798905	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master.pbd	a48b79efd2bd150d
+410	2368	7389355954880312	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master.pbw	758ceedac5cc276d
+2	357	7389356563671679	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/main.pbi	b1afe5a6c96b8757
+367	991	7389356569927993	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master_part0.pbi	458c62d4c6eba5ab
+3	383	7389356627227190	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master.pbd	a48b79efd2bd150d
+385	2332	7389356646313467	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master.pbw	758ceedac5cc276d
+2	413	7389362395555805	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/main.pbi	b1afe5a6c96b8757
+414	758	7389362398991458	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master_part0.pbi	458c62d4c6eba5ab
+760	1075	7389362402118501	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master.pbd	a48b79efd2bd150d
+1077	2797	7389362419003243	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master.pbw	758ceedac5cc276d
+3	403	7389362877320957	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/main.pbi	b1afe5a6c96b8757
+414	794	7389362881233225	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master_part0.pbi	458c62d4c6eba5ab
+796	1181	7389362885139300	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master.pbd	a48b79efd2bd150d
+1183	3400	7389362906895872	C:/Users/PC/Desktop/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master.pbw	758ceedac5cc276d
+390	790	7628863320000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.xcl	74ff4239c2ecd883
+327	798	7628863320000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/tm1637.xcl	90de3b4dbb008ed9
+401	805	7628863320000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.xcl	52294440ff1133b
+395	820	7628863320000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/stm32f4xx_it.xcl	610214f373a33c73
+791	942	7628863320000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.xcl	e93587fde9f878a1
+799	950	7628863320000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.xcl	28cc1fbf699bd729
+806	988	7628863320000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.xcl	9c33e22f3483ac72
+821	996	7628863320000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.xcl	5e101de728469229
+943	1121	7628863320000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.xcl	fa9cacdccfafc644
+951	1134	7628863320000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.xcl	e1419228c13da745
+989	1143	7628863320000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.xcl	50d5ba8a1d227a77
+997	1161	7628863320000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.xcl	563ffc905590f202
+1122	1292	7628863330000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.xcl	afc0597f1947d070
+1135	1299	7628863330000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.xcl	e786a0aa6253f500
+1144	1306	7628863330000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_spi.xcl	9bed2ca7487df929
+1162	1339	7628863330000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.xcl	741d25afe882aace
+1307	1527	7628863330000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.xcl	1aa749ab3d6867aa
+1293	1546	7628863330000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.xcl	24d99cfc053fdd35
+1300	1588	7628863330000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.xcl	e69b2446d18f0c0a
+1340	1653	7628863330000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/main.xcl	3406dfd472dab08a
+1528	1731	7628863330000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/MY_NRF24.xcl	e50e2a768a95e1bb
+1547	1793	7628863330000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.xcl	43e8a6033a8cd0f0
+1794	1971	7628863330000000	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.xcl	e46cd90857d2d2ae
+1590	2401	7628863342019599	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	a02e7dc82c94ebf3
+1732	2433	7628863342349157	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.pbi	fd5ab826ae36fc92
+1654	2499	7628863343026629	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/main.pbi	d450bfe998a5cd05
+1972	2600	7628863344017791	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/MY_NRF24.pbi	cc07a1a543748f6b
+2435	2845	7628863346484142	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.pbi	1257a62cc173386
+2402	2853	7628863346535150	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.pbi	e0df9c573cb8f6f2
+2501	2929	7628863347310825	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.pbi	8a6aeae25762d748
+2601	3102	7628863348952761	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Application/User/Core/tm1637.pbi	6a6477ee3c1af876
+2846	3277	7628863350811145	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.pbi	81b34907c174397a
+2854	3284	7628863350831271	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.pbi	e065a99c1ff1a2cf
+2931	3351	7628863351479717	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.pbi	e5f52ca922647fcf
+3104	3484	7628863352884869	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.pbi	70ededa508bce3d8
+3279	3665	7628863354687432	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.pbi	2712f39e2a89aefe
+3285	3680	7628863354825824	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.pbi	89992223e3fdc03a
+3353	3840	7628863356428324	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.pbi	abab825d1a0a493d
+3486	3883	7628863356855804	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.pbi	178a5851bccccc9d
+3666	4048	7628863358441010	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.pbi	a5fb395122239df2
+3682	4075	7628863358794945	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.pbi	c54aa526bcf366b6
+3842	4236	7628863360371825	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.pbi	4fb99a1d234a48f4
+3884	4322	7628863361243122	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.pbi	2f9f89ca8c1e59ad
+4077	4458	7628863362555734	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_spi.pbi	a4a650ebdb3e1a1
+4050	4488	7628863362911925	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.pbi	156dba81c06aa90d
+4237	4654	7628863364575592	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.pbi	3626116647a88f96
+4324	4754	7628863365585656	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master_part0.pbi	e7f57477d4e5cd4f
+4459	4836	7628863366357526	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master_part1.pbi	c3fa02b3deab352
+4490	4882	7628863366830533	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master_part3.pbi	27195579cec5e99e
+4655	4921	7628863367148369	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master_part4.pbi	3fe24ab1ad2e42ad
+4755	5120	7628863369208669	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master_part2.pbi	ae0dad692d254f8f
+5121	5443	7628863372365898	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master.pbd	375b0c38bab0a245
+5444	8326	7628863400646837	G:/mecroconteroler/ARM/ARM project/NRFapp/NRFmaster1/master/EWARM/master/BrowseInfo/master.pbw	cc908dcffed029a9
